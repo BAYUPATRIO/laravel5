@@ -1,0 +1,6 @@
+Nama: Bayu Patrio,
+        Tempat Lahir : Pancung Taba,
+        Tanggal Lahir : 2024-12-10,
+        No Hp : 081275648770,
+        Alamat : Pesisir Selatan IV Nagari Bayang Utara,
+        Nilai : 90

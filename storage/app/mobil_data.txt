@@ -1,0 +1,59 @@
+Merk: toyota, Tahun: 2024-12-19
+Merk: toyota, Tahun: 2024-12-13
+Merk: toyota, Tahun: 2024-12-20
+Merk: toyota, Tahun: 2024-12-19
+Merk: toyota, Tahun: 2024-12-13
+Merk: toyota, Tahun: 2024-12-19
+Merk: toyota, Tahun: 2024-12-10
+Nama: Bayu Patrio,
+                 Tempat Lahir : Pancung Taba,
+                 Tanggal Lahir : 2024-12-08,
+                 No Hp : 081275648770,
+                 Alamat : Pesisir Selatan IV Nagari Bayang Utara,
+                 Nilai : 90
+Nama: Bayu Patrio,
+        Tempat Lahir : Pancung Taba,
+        Tanggal Lahir : 2024-12-03,
+        No Hp : 081275648770,
+        Alamat : Pesisir Selatan IV Nagari Bayang Utara,
+        Nilai : 60
+Nama: Bayu Patrio,
+        Tempat Lahir : Pancung Taba,
+        Tanggal Lahir : 2024-12-18,
+        No Hp : 081275648770,
+                 Alamat : Pesisir Selatan IV Nagari Bayang Utara,
+                 Nilai : 60,
+                 Grade : ,
+Nama: Bayu Patrio,
+        Tempat Lahir : Pancung Taba,
+        Tanggal Lahir : 2024-12-17,
+        No Hp : 081275648770,
+                 Alamat : Pesisir Selatan IV Nagari Bayang Utara,
+                 Nilai : 60,
+                 Grade : ,
+Merk: toyota, Tahun: 2024-12-16
+Nama: Bayu Patrio,
+        Tempat Lahir : Pancung Taba,
+        Tanggal Lahir : 2005-04-07,
+        No Hp : 84973594,
+                 Alamat : Pesisir Selatan IV Nagari Bayang Utara,
+                 Nilai : 90,
+                 Grade : ,
+Merk: toyota, Tahun: 2024-11-14
+Merk: toyota, Tahun: 2024-12-11
+Nama: Bayu Patrio,
+        Tempat Lahir : Pancung Taba,
+        Tanggal Lahir : 2024-12-31,
+        No Hp : 081275648770,
+                 Alamat : Pesisir Selatan IV Nagari Bayang Utara,
+                 Nilai : 90,
+                 Grade : ,
+Merk: toyota, Tahun: 2024-12-11
+Nama: Bayu Patrio,
+        Tempat Lahir : Pancung Taba,
+        Tanggal Lahir : 2024-12-05,
+        No Hp : 081275648770,
+                 Alamat : Pesisir Selatan IV Nagari Bayang Utara,
+                 Nilai : 60,
+                 Grade : ,
+Merk: toyota, Tahun: 2024-12-08
